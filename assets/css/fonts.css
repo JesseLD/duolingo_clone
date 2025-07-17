@@ -1,0 +1,41 @@
+@font-face {
+  font-family: "Din Round";
+  src: url("../fonts/dinroundpro.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Din Round";
+  src: url("../fonts/dinroundpro_bold.otf") format("opentype");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Din Round";
+  src: url("../fonts/dinroundpro_black.otf") format("opentype");
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Din Round";
+  src: url("../fonts/dinroundpro_light.otf") format("opentype");
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Din Round";
+  src: url("../fonts/dinroundpro_medium.otf") format("opentype");
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Feather";
+  src: url("../fonts/Feather_Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+}
+
